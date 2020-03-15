@@ -78,7 +78,7 @@ He escogido este sitio web debido a que posee un servicio premium que permite pu
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>> Usability Review:[Usability-review-DIU2-pserrano](P1/Usability-review-DIU2-pserrano.pdf)
+>>> Usability Review: [Usability-review-DIU2-pserrano](P1/Usability-review-DIU2-pserrano.pdf)
 
 >>> Valoración numérica: 67.
 
