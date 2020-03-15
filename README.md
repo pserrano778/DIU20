@@ -58,7 +58,14 @@ He escogido este sitio web debido a que posee un servicio premium que permite pu
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Manuel
+
+>>>> He escogido a Manuel debido a que acaba de finalizar sus estudios y quiere tomarse un tiempo libre antes de comenzar a trabajar. Hasta ahora sus padres pagaban los costes de sus estudios, alojamiento, etc, por ello se encuentra en una etapa crítica en la que debe volverse totalmente independiente en el aspecto económico y, por tanto, no tiene mucho tiempo hasta que tenga que adentrarse de lleno en el mundo laboral.
+
+>>> Gloria
+
+>>>> Gloria, la otra persona que he elegido, se trata de una mujer divorciada de edad avanzada que lleva viviendo durante toda su vida en el mismo sitio y lleva trabajando durante muchos años como recepcionista en un hotel. Aunque tiene estabilidad tanto económicamente como en el ámbito personal su vida es muy monótona ya que lleva mucho tiempo viviendo en el mismo lugar y trabajando en el hotel.
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
