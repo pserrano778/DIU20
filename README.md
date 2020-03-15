@@ -31,22 +31,9 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 >>> Badi:
-Permite publicar una habitación para buscar un inquilino y realizar una búsqueda para reservar y alquilar una habitación.
+>>> Permite publicar una habitación para buscar un inquilino y realizar una búsqueda para reservar y alquilar una habitación.
 Posee un sistema de búsqueda que utiliza GoogleMaps para poder buscar una habitación en una ciudad concreta. Este sistema posee una herramienta para buscar alojamiento cerca de donde se encuentra el usuario actualmente usando la ubicación. No es necesario estar registrado para realizar una búsqueda.
-Couchsurfing:
-Su principal objetivo es compartir una casa con viajeros y compartir experiencias en la ciudad del huésped, de forma que este actúa como guía para el viajero.
-Cada usuario debe rellenar información sobre su estilo de vida y objetivos en su perfil. De esta forma es más fácil encontrar personas afines. 
-Compartetupiso:
-Permite ofrecer y buscar alojamiento en función de la "experiencia" que el usuario quiere experimentar, es decir, en función de si desea compartir aficiones con alguien, trabajar en un campo relacionado (afinidad profesional), etc.
-Los usuarios son verificados de forma manual y se comprueba que una persona puede realmente ofrecer un espacio. Los usuarios que ofrecen alojamiento pueden optar por cobrar o no un alquiler.
-Cuando tratas de iniciar sesión, siempre aparece la misma pantalla con el mensaje “Gracias, ya tenemos tus datos, en breve te contactaremos.”
-Habitoom:
-Es un sitio web cuyo objetivo es conectar personas que buscan un lugar para vivir con aquellas que ofrecen un sitio para alquilar.
-Este sitio web trata de crear una comunidad para que todos aporten sus experiencias vividas de forma que sirvan como referencia a futuros inquilinos.
-Permite realizar búsquedas de alquileres sin necesidad de registrarse, aplicando filtros en la búsqueda como metros cuadrados, número de inquilinos, edad de los inquilinos, etc.
-Habitoom permite que el usuario no solo publique un espacio para alquilar o buscar uno, también permite crear alertas con ciertos filtros para que avisen al usuario cuando alguien ha publicado un alquiler que se adapte.
-En el registro no se pide información como el sexo o la fecha de nacimiento del usuario, por lo que estos son asignados a un valor predefinido, por lo que el usuario ha de cambiarlos posteriormente. 
-He escogido este sitio web debido a que posee un servicio premium que permite publicación ilimitada de espacios de alquiler, publicar todos los datos de contacto, etc.
+
 
 
 ![Método UX](img/Persona.png) 1.b Persona
