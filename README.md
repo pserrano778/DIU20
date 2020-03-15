@@ -78,6 +78,8 @@ He escogido este sitio web debido a que posee un servicio premium que permite pu
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
+>>> Usability Review:(P1/Usability-review-DIU2-pserrano.pdf)
+
 >>> Valoración numérica: 67.
 
 >>> El sitio web “Habitoom” tiene como finalidad poner en contacto a personas con el fin de alquilar una habitación. Trata de ser una especie de “red social” para alquiler de habitaciones.
