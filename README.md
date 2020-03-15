@@ -71,15 +71,24 @@ He escogido este sitio web debido a que posee un servicio premium que permite pu
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> La experiencia de Manuel es bastante común. Una persona joven quiere ir de viaje pero no tiene mucho dinero, por lo que busca compartir un piso/alquilar una habitación para no tener que gastar mucho en alojamiento. El problema es que debido a las prisas no utiliza la web adecuada para esta búsqueda, por lo que no queda nada satisfecho.
+
+>>> La experiencia de Gloria es menos habitual, teniendo en cuenta que se trata de una persona con 50 años. Lleva toda su vida viviendo en el mismo pueblo, pero decide mudarse a la capital, donde trabaja, con una amiga. En este caso si utiliza una web adecuada, el problema viene cuando se encuentra con las carencias de la web, que para una persona no acostumbrada a navegar por internet o al uso de ordenadores pueden hacerle pasar un mal rato.
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> Valoración numérica: 67.
+
+>>> El sitio web “Habitoom” tiene como finalidad poner en contacto a personas con el fin de alquilar una habitación. Trata de ser una especie de “red social” para alquiler de habitaciones.
+Una de las principales desventajas es el periodo de estancia mínimo de 1 mes, que se debe a que está destinada a personas que se mudan por cuestiones de trabajo, estudios, etc. Esto hace que sea poco flexible e inviable para personas que buscan alojamiento para vacaciones o similares.
+
+>>> En cuanto a la funcionalidad Habitoom cumple su objetivo. Proporciona las herramientas necesarias para poner un anuncio de una habitación o buscar una. A pesar de cumplir su objetivo posee carencias como la poca flexibilidad de su sistema de búsqueda, que solo permite buscar con el formato “Provincia, País”, lo cual es bastante incómodo para cualquier usuario. Otra de sus grandes desventajas es la poca información que se requiere para crearse una cuenta (e-mail, nombre y contraseña), el resto de campos de información o están predeterminados (sexo o fecha de nacimiento) o no es necesario completarlos (foto de perfil, descripción, etc), lo que hace que un usuario poco no modifique estos parámetros de su perfil.
+
+>>> Por último, posee un servicio premium que permite publicar un número ilimitado de habitaciones y publicar el número de teléfono personal. Este aspecto es bastante negativo, ya que la mayoría de usuario no pagan dicho servicio, pero el número de teléfono es la mejor forma para comunicar a usuario normales (uso a aplicaciones de mensajería como “Whatsapp”) en casos como alquiler de piso o habitación. Esto provoca que el número de usuarios potenciales decrezca debido a las pobres formas que tiene el sitio web de poner en contacto a los usuarios.
+
+>>> La conclusión es que, aunque ofrece las funcionalidades básicas para cumplir su objetivo, su filosofía de red social hace que sea una web inferior a muchas otras similares (en el ámbito de alquilar piso, compartir piso, etc).
+
 
 
 ## Paso 2. UX Design  
