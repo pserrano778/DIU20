@@ -71,7 +71,7 @@ He escogido este sitio web debido a que posee un servicio premium que permite pu
 ----
 
 
->>> La experiencia de Manuel es bastante común. Una persona joven quiere ir de viaje pero no tiene mucho dinero, por lo que busca compartir un piso/alquilar una habitación para no tener que gastar mucho en alojamiento. El problema es que debido a las prisas no utiliza la web adecuada para esta búsqueda, por lo que no queda nada satisfecho.
+>>> La experiencia de Manuel es bastante común. Una persona joven quiere ir de viaje, pero no tiene mucho dinero, por lo que busca compartir un piso/alquilar una habitación para no tener que gastar mucho en alojamiento. El problema es que debido a las prisas no utiliza la web adecuada para esta búsqueda, por lo que no queda nada satisfecho.
 
 >>> La experiencia de Gloria es menos habitual, teniendo en cuenta que se trata de una persona con 50 años. Lleva toda su vida viviendo en el mismo pueblo, pero decide mudarse a la capital, donde trabaja, con una amiga. En este caso si utiliza una web adecuada, el problema viene cuando se encuentra con las carencias de la web, que para una persona no acostumbrada a navegar por internet o al uso de ordenadores pueden hacerle pasar un mal rato.
 
