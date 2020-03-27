@@ -113,8 +113,7 @@ Una de las principales desventajas es el periodo de estancia mínimo de 1 mes, q
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas
- hoohttogh |
+ Interesante •	Los usuarios que buscan alojamiento tienen la opción de recibir una notificación si alguien publica una habitación que se ajuste a las características que han especificado. •	Servicio Premium que permite aumentar el número de habitaciones que se pueden ofrecer o destacar los anuncios. •	Gran cantidad de filtros para aplicar en una búsqueda (fumadores, m2, edad, etc). | Críticas
 | ------------- | -------
   Preguntas | Nuevas ideas
   
