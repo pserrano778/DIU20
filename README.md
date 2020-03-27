@@ -108,21 +108,19 @@ Una de las principales desventajas es el periodo de estancia mínimo de 1 mes, q
 
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
-
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante •	Los usuarios que buscan alojamiento tienen la opción de recibir una notificación si alguien publica una habitación que se ajuste a las características que han especificado. •	Servicio Premium que permite aumentar el número de habitaciones que se pueden ofrecer o destacar los anuncios. •	Gran cantidad de filtros para aplicar en una búsqueda (fumadores, m2, edad, etc). | Críticas
+ Interesante<br /> •	Los usuarios que buscan alojamiento tienen la opción de recibir una notificación si alguien publica una habitación que se ajuste a las características que han especificado.<br /> •	Servicio Premium que permite aumentar el número de habitaciones que se pueden ofrecer o destacar los anuncios. •	Gran cantidad de filtros para aplicar en una búsqueda (fumadores, m2, edad, etc). | Críticas<br /> •	Debe pedir al usuario más información personal en el registro (fecha de nacimiento, teléfono, fotografía, validar e-mail, etc).<br /> •	Un sistema de búsqueda tan restrictivo no es cómo para un usuario del sitio web. <br />•	Ofrece una cantidad excesiva de información en la página principal.
 | ------------- | -------
-  Preguntas | Nuevas ideas
+  Preguntas<br /> •	Hacer que los tiempos de estancia mínimos sean más flexible, de forma que permita, por ejemplo, que una persona busque alojamiento para un viaje.<br /> •	Cuando se inicia sesión es preferible ver la pantalla de “Mi cuenta”. <br />•	Tener algún mecanismo que me permita retroceder en la página al menú anterior. Por ejemplo, si estoy creando una alerta, que me permita volver a “Mis alertas”. | Nuevas ideas<br /> •	Foro que aloja comentarios y valoraciones sobre los alojamientos y usuarios.<br /> •	Reducir el tamaño de las páginas de búsqueda y otros formularios (como el de modificar información del usuario) para que no sea una página excesivamente larga en la que es incómodo navegar.<br /> •	Debe ser necesario pedir más información al usuario cuando este se registra (DNI, verificar e-mail, foto de perfil, etc), de forma que disminuya el uso de perfiles falsos.
+
   
   
   
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+La propuesta de valor que se es un sistema similar al presentado en la práctica anterior Habitoom, pero modificando algunos aspectos:
+•	Se ofrece una mayor flexibilidad a los usuarios en cuanto al periodo de estancia. Tiene como objetivo atraer usuarios potenciales que buscan un alojamiento para un corto periodo de tiempo, ya sea porque no quieren gastar mucho dinero en un viaje o algún otro motivo.
+•	Se mejora el sistema de puntuación y comentarios. Uno de los aspectos de Habitoom que más llama la atención es que trata de ser una “red social” para compartir alojamiento. El gran problema es que está destinado a personas que busquen alojamiento para trabajar, estudiar, etc. Esto causa que el número de usuarios que usen el sitio web no sea demasiado elevado, y, además, no harán un uso excesivo de esta “red social”. Tratando de expandir el sitio web a otros usuarios, como personas que buscan alojamiento para un viaje, incrementa el número de usuarios potenciales, y permite crear un foro donde las personas valoren y comenten tanto los alojamientos como la experiencia con otros usuarios. Las distintas secciones de los foros pueden estar clasificadas por ejemplo por Comunidades autónomas. Esto es muy útil tanto para personas que quieren ofrecer alojamiento de forma habitual como para personas que van a hacer un uso elevado del sitio web para buscar alojamiento.
+•	Es muy importante para un usuario saber con qué persona habla, más aún cuando puede que comparta alojamiento con ella. Se debe pedir información relevante sobre un usuario cuando este se registra. 
+Además, el servicio Premium debe servir para ampliar funcionalidades, como aumentar el número de anuncios que se pueden publicar, etc. Por tanto, la información personal adicional que se mostraba con este servicio debe mostrarse sin ser usuario Premium.
+
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
