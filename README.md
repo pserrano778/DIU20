@@ -113,7 +113,8 @@ Una de las principales desventajas es el periodo de estancia mínimo de 1 mes, q
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
 
- Interesante | Críticas     
+ Interesante | Críticas
+ hoohttogh |
 | ------------- | -------
   Preguntas | Nuevas ideas
   
