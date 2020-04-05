@@ -174,8 +174,17 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Los bocetos que se han creado se corresponden con la página principal, la página del foro y la vista de un hilo:
 
+>>> •	Página principal: La cabecera posee el logotipo de la aplicación y los enlaces básicos para registrarse/iniciar sesión/cerrar sesión y redirigir a la página con la información de la cuenta. Posee un especio reservado para mostrar imágenes de ejemplo, de forma que la página principal sea ilustrativa para un usuario que entra por primera vez. Por último posee enlaces a las funcionalidades de la aplicación web.
+![](P2/portada.jpg)
+
+>>> •	Página del foro de la aplicación. Conserva la cabecera (que permite volver a la página inicial ) y el pie de página. Posee un menú para diversas funcionalidades y un motor de búsqueda, de forma que un usuario puede buscar hilos en función de una palabra o frase, y desde está página se permite crear un nuevo hilo.
+Por último, se incluye un sistema de valoración de usuarios y alojamientos cuya finalidad es obtener información que pueda ser útil para el resto de usuarios. Se incluye en la sección de foro debido a la finalidad social que tiene (comentarios, opiniones, relación con otros usuarios, etc).
+![](P2/foro.jpg)
+
+>>> •	Finalmente se incluye el boceto del aspecto de un hilo concreto del foro. De igual forma se incluye la cabecera y el pie de página. Incluye un botón para volver a la página e Foro. Es posible informar sobre los usuarios y escribir comentarios si el usuario está registrado.
+![](P2/hilo.jpg)
 
 ## Paso 3. Make (Prototyping) 
 
