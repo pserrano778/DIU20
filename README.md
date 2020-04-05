@@ -183,7 +183,7 @@ Término | Significado
 Por último, se incluye un sistema de valoración de usuarios y alojamientos cuya finalidad es obtener información que pueda ser útil para el resto de usuarios. Se incluye en la sección de foro debido a la finalidad social que tiene (comentarios, opiniones, relación con otros usuarios, etc).
 ![](P2/foro.jpg)
 
->>> •	Finalmente se incluye el boceto del aspecto de un hilo concreto del foro. De igual forma se incluye la cabecera y el pie de página. Incluye un botón para volver a la página e Foro. Es posible informar sobre los usuarios y escribir comentarios si el usuario está registrado.
+>>> •	Finalmente se incluye el boceto del aspecto de un hilo concreto del foro. De igual forma se incluye la cabecera y el pie de página. Incluye un botón para volver a la página de Foro. Es posible informar sobre los usuarios y escribir comentarios si el usuario está registrado.
 ![](P2/hilo.jpg)
 
 ## Paso 3. Make (Prototyping) 
