@@ -127,9 +127,10 @@ Además, el servicio Premium debe servir para ampliar funcionalidades, como aume
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
+>>> Matriz de tareas:
+![](P2/matriz_de_tareas.jpg)
 
->>> Definir "User Map" y "Task Flow" ... 
-
+>>> Se ha seleccionado la matriz de tareas debido a que permite expresar la funcionalidad para la que se diseña la aplicación web y su principal característica de un sistema. Como se puede observar en la matriz las principales diferencias entre usuarios registrados y no registrados es el uso del sistema de comentarios y valoraciones. Por lo general si un usuario no está registrado indica que no usa la página lo suficiente (o la está probando) como para hacerlo.
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
