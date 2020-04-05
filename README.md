@@ -132,6 +132,9 @@ Además, el servicio Premium debe servir para ampliar funcionalidades, como aume
 
 >>> Se ha seleccionado la matriz de tareas debido a que permite expresar la funcionalidad para la que se diseña la aplicación web y su principal característica de un sistema. Como se puede observar en la matriz las principales diferencias entre usuarios registrados y no registrados es el uso del sistema de comentarios y valoraciones. Por lo general si un usuario no está registrado indica que no usa la página lo suficiente (o la está probando) como para hacerlo.
 
+>>> Sitemap
+![](P2/sitemap.jpg)
+
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
@@ -140,7 +143,32 @@ Además, el servicio Premium debe servir para ampliar funcionalidades, como aume
 
 Término | Significado     
 | ------------- | -------
-  Login¿?  | acceder a plataforma
+  Registrarse  | Crear una nueva cuenta en la plataforma
+  Iniciar sesión  | Acceder a la plataforma utilizando una cuenta
+  Cerrar sesión  | Dejar de utilizar la cuenta actual en la plataforma
+  Buscar habitación  | Realizar una búsqueda de una habitación en función de unos filtros
+  Seleccionar habitación  | Permite seleccionar un anuncio para ver la información de este
+  Mis anuncios  | Listado de anuncios sobre alojamientos que un usuario tiene
+  Publicar anuncios  | Crear un nuevo anuncio
+  Asistencia  | Acceder a un sistema de asistencia para ponerse en contacto con una persona que pueda resolver el problema que tiene el usuario
+  Sobre nosotros  | Información acerca de la aplicación web
+  Mi cuenta  | Información de la cuenta de usuario
+  Perfil  | Información personal del usuario. Permite modificar la información
+  Mensajes  | Mensajes provenientes de otros usuarios y enviados
+  Nuevo mensaje  | Crea y envía un mensaje a otro usuario
+  Alertas  | Sistema que permite notificar a un usuario sobre nuevos anuncios que publican otros usuarios cuyas características son similares a las que se especifican cuando se crea la alerta
+  Crear alerta  | Permite crear una nueva alerta seleccionando una serie de características
+  Premium  | Servicio premium que ofrece la plataforma. En esta página se pueden configurar los aspectos del servicio o acceder a este si no se posee.
+  Pago online  | Para el pago del servicio premium
+  Configuración  | Permite modificar aspectos relacionados con la privacidad, notificaciones, etc
+  Foro  | Sistema de foros que permite la interacción social entre los usuarios de la plataforma. 
+  Crear hilo  | Permite crear un nuevo hilo dentro del sistema de foros
+  Valorar usuario  | Puntuar y hacer un comentario sobre algún usuario con el que se ha convivido
+  Valorar alojamiento  | Puntuar y hacer un comentario sobre algún alojamiento en el que se ha estado
+  Seleccionar hilo  | Selecciona uno de lo hilos para acceder a este
+  Enviar comentario  | Envía un comentario al hilo
+  Buscar hilo  | Permite realizar una búsqueda entre todos los hilos en base a una frase introducida
+  
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
