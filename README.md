@@ -7,7 +7,7 @@ Proyecto:
 
 Descripción: 
 
-Logotipo:  ![](img/logo.png)
+Logotipo:  ![](img/Logo.png)
 
 Miembros
  * :bust_in_silhouette:   Pedro Serrano Pérez     :octocat: 
