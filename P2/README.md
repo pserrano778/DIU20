@@ -1,10 +1,6 @@
 DIU - Practica2, entregables
 
-## Paso 2. UX Design  
-
-
-![Método UX](../img/feedback-capture-grid.png) 2.a Feedback Capture Grid
-----
+## Feedback Capture Grid
  Interesante<br /> •	Los usuarios que buscan alojamiento tienen la opción de recibir una notificación si alguien publica una habitación que se ajuste a las características que han especificado.<br /> •	Servicio Premium que permite aumentar el número de habitaciones que se pueden ofrecer o destacar los anuncios. •	Gran cantidad de filtros para aplicar en una búsqueda (fumadores, m2, edad, etc). | Críticas<br /> •	Debe pedir al usuario más información personal en el registro (fecha de nacimiento, teléfono, fotografía, validar e-mail, etc).<br /> •	Un sistema de búsqueda tan restrictivo no es cómo para un usuario del sitio web. <br />•	Ofrece una cantidad excesiva de información en la página principal.
 | ------------- | -------
   Preguntas<br /> •	Hacer que los tiempos de estancia mínimos sean más flexible, de forma que permita, por ejemplo, que una persona busque alojamiento para un viaje.<br /> •	Cuando se inicia sesión es preferible ver la pantalla de “Mi cuenta”. <br />•	Tener algún mecanismo que me permita retroceder en la página al menú anterior. Por ejemplo, si estoy creando una alerta, que me permita volver a “Mis alertas”. | Nuevas ideas<br /> •	Foro que aloja comentarios y valoraciones sobre los alojamientos y usuarios.<br /> •	Reducir el tamaño de las páginas de búsqueda y otros formularios (como el de modificar información del usuario) para que no sea una página excesivamente larga en la que es incómodo navegar.<br /> •	Debe ser necesario pedir más información al usuario cuando este se registra (DNI, verificar e-mail, foto de perfil, etc), de forma que disminuya el uso de perfiles falsos.
@@ -22,8 +18,8 @@ DIU - Practica2, entregables
 Además, el servicio Premium debe servir para ampliar funcionalidades, como aumentar el número de anuncios que se pueden publicar, por tanto, la información personal adicional que se mostraba con este servicio debe mostrarse sin ser usuario Premium.
 
 
-![Método UX](../img/Sitemap.png) 2.b Tasks & Sitemap 
------
+## Tasks & Sitemap 
+
 >>> Matriz de tareas:
 ![](img/matriz_de_tareas.jpg)
 
@@ -32,8 +28,7 @@ Además, el servicio Premium debe servir para ampliar funcionalidades, como aume
 >>> Sitemap
 ![](img/sitemap.jpg)
 
-![Método UX](../img/labelling.png) 2.c Labelling 
-----
+## Labelling 
 
 
 >>> Identificar términos para diálogo con usuario  
@@ -68,8 +63,7 @@ Término | Significado
   
 
 
-![Método UX](../img/Wireframes.png) 2.d Wireframes
------
+## Wireframes
 
 >>> Los bocetos que se han creado se corresponden con la página principal, la página del foro y la vista de un hilo:
 
