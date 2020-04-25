@@ -16,13 +16,7 @@ Miembros
 
 ----- 
 
->>> En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) Elimine este texto desde la práctica 1
-
-
 Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
 
 # Proceso de Diseño 
 
@@ -31,7 +25,8 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+En primer lugar, una vez tenemos la idea principal de nuestra aplicación, es interesante estudiar las aplicaciones más destacables cuya funcionalidad sea similar a la nuestra. El análisis de compentencia consiste en analizar la competencia para tratar de sacar los puntos en común de las aplicaciones y, buscar nuevas funcionalidades que puedan hacer destacar a nuestra aplicación.
+[Aquí](P1/README.md) podemos encontrar el análisis de competencia completo, en el que se estudian cuatro alternativas y se escoge una de ellas, [Habitoom](http://es.habitoom.com/) en la que profundizaremos en los siguientes puntos.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
