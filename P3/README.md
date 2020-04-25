@@ -102,7 +102,7 @@ Considero que no tiene mucho sentido realizar el estudio del diseño antes que l
 
 >>> Mi cuenta: ![](img/MiCuenta.png)
 
->>> Foro: ![](img/Foro.png)
+>>> Foro: ![](img/Foro.jpg)
 
 >>> Buscar habitación: ![](img/Buscar.jpg)
 
@@ -117,6 +117,7 @@ Considero que no tiene mucho sentido realizar el estudio del diseño antes que l
 >>> Mis mensajes: ![](img/mensaje.png)
 
 >>En el siguiente boceto podemos ver una posible distribución de los iconos utilizando esta paleta de colores y la tipografía indicada:
+
 ![](img/Boceto.jpg)
 
 >>Principios de diseño:
