@@ -2,10 +2,7 @@
 
 # Proceso de Diseño 
 
-## Paso 1. UX Desk Research & Analisis 
-
-1.a Competitive Analysis
------
+## Competitive Analysis
 
 >>> Badi:
 
@@ -32,8 +29,7 @@ Habitoom permite que el usuario no solo publique un espacio para alquilar o busc
 En el registro no se pide información como el sexo o la fecha de nacimiento del usuario, por lo que estos son asignados a un valor predefinido, por lo que el usuario ha de cambiarlos posteriormente. 
 He escogido este sitio web debido a que posee un servicio premium que permite publicación ilimitada de espacios de alquiler, publicar todos los datos de contacto, etc.
 
-![Método UX](../img/Persona.png) 1.b Persona
------
+## Persona
 
 >>> Manuel
 
@@ -49,8 +45,7 @@ He escogido este sitio web debido a que posee un servicio premium que permite pu
 >>>Ficha Gloria:
 ![](img/PersonaGloria.jpg)
 
-![Método UX](../img/JourneyMap.png) 1.c User Journey Map
-----
+## User Journey Map
 
 
 >>> La experiencia de Manuel es bastante común. Una persona joven quiere ir de viaje, pero no tiene mucho dinero, por lo que busca compartir un piso/alquilar una habitación para no tener que gastar mucho en alojamiento. El problema es que debido a las prisas no utiliza la web adecuada para esta búsqueda, por lo que no queda nada satisfecho.
@@ -63,8 +58,8 @@ He escogido este sitio web debido a que posee un servicio premium que permite pu
 >>>Experiencia Gloria:
 ![](img/ExperienciaGloria.jpg)
 
-![Método UX](../img/usabilityReview.png) 1.d Usability Review
-----
+## Usability Review
+
 >>> Usability Review: [Usability-review-DIU2-pserrano](Usability-review-DIU2-pserrano.pdf)
 
 >>> Valoración numérica: 67.
