@@ -26,6 +26,7 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 -----
 
 En primer lugar, una vez tenemos la idea principal de nuestra aplicación, es interesante estudiar las aplicaciones más destacables cuya funcionalidad sea similar a la nuestra. El análisis de compentencia consiste en analizar la competencia para tratar de sacar los puntos en común de las aplicaciones y, buscar nuevas funcionalidades que puedan hacer destacar a nuestra aplicación.
+
 [Aquí](P1/README.md) podemos encontrar el análisis de competencia completo, en el que se estudian cuatro alternativas y se escoge una de ellas, [Habitoom](http://es.habitoom.com/) en la que profundizaremos en los siguientes puntos.
 
 ![Método UX](img/Persona.png) 1.b Persona
