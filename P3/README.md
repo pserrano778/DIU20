@@ -102,7 +102,7 @@ Considero que no tiene mucho sentido realizar el estudio del diseño antes que l
 
 >>> Mi cuenta: ![](img/MiCuenta.png)
 >>> Foro: ![](img/Foro.png)
->>> Buscar habitación: ![](img/Buscar.png)
+>>> Buscar habitación: ![](img/Buscar.jpg)
 >>> Asistencia: ![](img/Asistencia.png)
 >>> Sobre nosotros: ![](img/sobreNosotros.png)
 >>> Mis anuncios: ![](img/MisAnuncios.png)
