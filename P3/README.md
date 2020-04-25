@@ -101,16 +101,23 @@ Considero que no tiene mucho sentido realizar el estudio del diseño antes que l
 >>Iconos más relevantes de la aplicación:
 
 >>> Mi cuenta: ![](img/MiCuenta.png)
+
 >>> Foro: ![](img/Foro.png)
+
 >>> Buscar habitación: ![](img/Buscar.jpg)
+
 >>> Asistencia: ![](img/Asistencia.png)
+
 >>> Sobre nosotros: ![](img/sobreNosotros.png)
->>> Mis anuncios: ![](img/MisAnuncios.png)
+
+>>> Mis anuncios: ![](img/MisAnuncios.jpg)
+
 >>> Publicar habitación: ![](img/Publicar.jpg)
+
 >>> Mis mensajes: ![](img/mensaje.png)
 
 >>En el siguiente boceto podemos ver una posible distribución de los iconos utilizando esta paleta de colores y la tipografía indicada:
-![](img/boceto.jpg)
+![](img/Boceto.jpg)
 
 >>Principios de diseño:
 >>>Algunos de los principios de diseño que se aplican, siguiendo la guía de principios de diseño de las aplicaciones para dispositivos móviles de Google, son los siguientes:
