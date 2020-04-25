@@ -88,6 +88,49 @@ Considero que no tiene mucho sentido realizar el estudio del diseño antes que l
 
 ## Propuesta de elementos de diseño o patrones a usar 
 
+>>Tipografía:
+>>>•	Para los encabezados la aplicación utilizará la fuente Noto Serif, una fuente que busca atraer y llamar la atención del usuario. 
+>>>•	Para el cuerpo utilizará la fuente Roboto, una fuente fácil de leer con tamaños de letra pequeños.
+
+>>Paleta de colores:
+
+![](img/PaletaColores.jpg)
+
+>>>He escogido colores azules para los fondos de la aplicación, de forma que las diferentes zonas de la aplicación pueden ser delimitadas sin causar un gran contraste con el resto. Tanto el texto como algunos iconos están en color negro, mientras que hay otros iconos, de color rojizo, que indica que su uso no es habitual.
+
+>>Iconos más relevantes de la aplicación:
+
+>>> Mi cuenta: ![](img/MiCuenta.png)
+>>> Foro: ![](img/Foro.png)
+>>> Buscar habitación: ![](img/Buscar.png)
+>>> Asistencia: ![](img/Asistencia.png)
+>>> Sobre nosotros: ![](img/sobreNosotros.png)
+>>> Mis anuncios: ![](img/MisAnuncios.png)
+>>> Publicar habitación: ![](img/Publicar.png)
+>>> Mis mensajes: ![](img/mensaje.png)
+
+>>En el siguiente boceto podemos ver una posible distribución de los iconos utilizando esta paleta de colores y la tipografía indicada:
+![](img/boceto.png)
+
+>>Principios de diseño:
+>>>Algunos de los principios de diseño que se aplican, siguiendo la guía de principios de diseño de las aplicaciones para dispositivos móviles de Google, son los siguientes:
+>>>•	Navegación
+>>>>>>-	Funcionalidades principales en una posición privilegiada en la página principal
+>>>>>>-	Permitir al usuario volver un paso atrás. Por ejemplo, cuando se encuentran en la página de una habitación concreta y desean volver al listado de las habitaciones de una búsqueda.
+>>>•	Búsquedas
+>>>>>>-	Uso de un campo de búsqueda de habitación en la página principal y de un campo de búsqueda para hilos en los foros de la aplicación.
+>>>>>>-	Uso de opciones para filtrar y ordenar resultados en una búsqueda de habitación (precio, amaño, …).
+>>>•	Comercio
+>>>>>>-	Recordar la información sobre las búsquedas anteriores
+>>>>>>-	Filtrado de las opiniones de los usuarios para una habitación u otro usuario.
+>>>•	Registro
+>>>>>>-	No es necesario el registro para realizar una búsqueda de una habitación. El registro será necesario para enviar un mensaje a otro usuario, realizar una valoración, crear un nuevo hilo en la sección de foros …
+>>>>>>-	Se marcan las diferencias entre la opción de Registrarse y la de Iniciar sesión.
+>>>•	Formularios
+>>>>>>-	Informe de los errores de un formulario en tiempo real, como, por ejemplo, enviar un formulario con un campo en blanco obligatorio.
+>>>•	Usabilidad y facilidad de comprensión
+>>>>>>-	Uso e un vocabulario adecuado para los usuarios de la aplicación.
+>>>>>>-	Uso de etiquetas de texto en elementos visuales e iconos.
 
 ## Historia en Video del UX Case Study
 
