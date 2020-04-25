@@ -29,7 +29,7 @@ MuseMap busca cumplir los objetivos de un cliente ficticio elegido por los desar
 
 >>>Por último, observaron que ninguna de las aplicaciones de la competencia utilizaba un sistema para recomendaciones personales.
 
->>>El análisis de competencia es muy útil para identificar las funcionalidades comunes, y que por tanto es conveniente tenerlas en cuenta, y funcionalidades nuevas que otras aplicaciones no poseen. El principal inconveniente es detectar los puntos débiles que se deberían mejorar, cosa que si se hacía en la revisión de usabilidad.
+>>>El análisis de competencia es muy útil para identificar las funcionalidades comunes, y que por tanto es conveniente tenerlas en cuenta, y funcionalidades nuevas que otras aplicaciones no poseen. El principal inconveniente es detectar los puntos débiles que se deberían mejorar, por lo que podría haber sido una buena idea una revisión de usabilidad.
 
 >>Mapa de empatía:
 
