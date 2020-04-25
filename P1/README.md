@@ -32,7 +32,7 @@ Habitoom permite que el usuario no solo publique un espacio para alquilar o busc
 En el registro no se pide información como el sexo o la fecha de nacimiento del usuario, por lo que estos son asignados a un valor predefinido, por lo que el usuario ha de cambiarlos posteriormente. 
 He escogido este sitio web debido a que posee un servicio premium que permite publicación ilimitada de espacios de alquiler, publicar todos los datos de contacto, etc.
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](../img/Persona.png) 1.b Persona
 -----
 
 >>> Manuel
@@ -49,7 +49,7 @@ He escogido este sitio web debido a que posee un servicio premium que permite pu
 >>>Ficha Gloria:
 ![](img/PersonaGloria.jpg)
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](../img/JourneyMap.png) 1.c User Journey Map
 ----
 
 
@@ -63,7 +63,7 @@ He escogido este sitio web debido a que posee un servicio premium que permite pu
 >>>Experiencia Gloria:
 ![](img/ExperienciaGloria.jpg)
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](../img/usabilityReview.png) 1.d Usability Review
 ----
 >>> Usability Review: [Usability-review-DIU2-pserrano](Usability-review-DIU2-pserrano.pdf)
 
