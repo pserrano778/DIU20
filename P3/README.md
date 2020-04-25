@@ -2,10 +2,10 @@
 
 ## Análisis de MuseMap   
 
->>> Ante un mural, una escultura u otro tipo de arte público, a menudo surge la pregunta de ¿quién es el artista? Esta pregunta es la causa de que un equipo de desarrolladores decidiera crear MuseMap.
+> Ante un mural, una escultura u otro tipo de arte público, a menudo surge la pregunta de ¿quién es el artista? Esta pregunta es la causa de que un equipo de desarrolladores decidiera crear MuseMap.
 MuseMap busca cumplir los objetivos de un cliente ficticio elegido por los desarrolladores, la ciudad de Londres. Estos objetivos buscan apoyar el arte público de cara a visitantes y residentes.
 
->>>Para el desarrollo de la app han seguido los siguientes pasos:
+>Para el desarrollo de la app han seguido los siguientes pasos:
 
 >>Estudio de los usuarios:
 >>>Realizaron una lluvia de ideas con el objetivo de identificar los usuarios potenciales y sus objetivos. 
