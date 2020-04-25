@@ -1,21 +1,16 @@
 # DIU20
 Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa) 
 
-Grupo: DIU1_01AABB.  Curso: 2019/20 
+Grupo: DIU2.pserrano.  Curso: 2019/20 
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
-
-Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+Logotipo:  ![](img/logo.png)
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Pedro Serrano Pérez     :octocat: 
 
 ----- 
 
