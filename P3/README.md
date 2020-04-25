@@ -106,11 +106,11 @@ Considero que no tiene mucho sentido realizar el estudio del diseño antes que l
 >>> Asistencia: ![](img/Asistencia.png)
 >>> Sobre nosotros: ![](img/sobreNosotros.png)
 >>> Mis anuncios: ![](img/MisAnuncios.png)
->>> Publicar habitación: ![](img/Publicar.png)
+>>> Publicar habitación: ![](img/Publicar.jpg)
 >>> Mis mensajes: ![](img/mensaje.png)
 
 >>En el siguiente boceto podemos ver una posible distribución de los iconos utilizando esta paleta de colores y la tipografía indicada:
-![](img/boceto.png)
+![](img/boceto.jpg)
 
 >>Principios de diseño:
 >>>Algunos de los principios de diseño que se aplican, siguiendo la guía de principios de diseño de las aplicaciones para dispositivos móviles de Google, son los siguientes:
