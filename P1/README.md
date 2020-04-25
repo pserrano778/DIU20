@@ -4,7 +4,7 @@
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](../img/Competitive.png) 1.a Competitive Analysis
+1.a Competitive Analysis
 -----
 
 >>> Badi:
