@@ -3,7 +3,7 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU2.pserrano.  Curso: 2019/20 
 
-Proyecto: 
+Proyecto: HabitShare
 
 Descripción: 
 
