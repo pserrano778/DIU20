@@ -101,19 +101,21 @@ Realización de bocetos Lo-Fi que muestran el diseño de la página principal y 
 ![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
 -----
 
+En este apartado vamos a analizar el UX-Case de [MuseMap](https://blog.prototypr.io/musemap-street-art-app-ux-case-study-9bec6a99823b). Se analizan todas las técticas que el equipo de desarrolladores emplean para el desarrollo de su aplicación.
 
->>> Analizar lo aprendido de la experiencia MuseApp 
+[Aquí](P3/README.md) podemos ver el análisis completo.
 
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
-
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Para crear el logotipo se han utilizado una serie de iconos extraidos de [Font Awesome](http://fontawesome.io/) que han sido editados para generar el logo. La resolución del logotipo es de 100x100. Su estructura es cuadrada, por lo que sería necesario adaptar su estructura y resolución para que se visualice correctamente en redes sociales (por ejemplo, para twitter, sería conveniente que la estructura fuese circular y la resolución 400x400).
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+La aplicación a desarrollar está enfocada para Android, por lo que se van a usar las guía de principios de diseño de las aplicaciones para dispositivos móviles de Google.
+
+[Aquí](P3/README.md) podemos ver la propuesta completa.
 
 ![Método UX](img/mockup.png)  3.d Video
 ----
