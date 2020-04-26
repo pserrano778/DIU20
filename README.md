@@ -122,7 +122,7 @@ La aplicación a desarrollar está enfocada para Android, por lo que se van a us
 ![Método UX](img/mockup.png)  3.d Video
 ----
 
-![Enlace al vídeo] (https://drive.google.com/file/d/1ieJUtzxt1lH5_sexZlYcrGDYyZHro5zQ/view).
+[Enlace al vídeo] (https://drive.google.com/file/d/1ieJUtzxt1lH5_sexZlYcrGDYyZHro5zQ/view).
 
 ## Paso 4. Evaluación 
 
