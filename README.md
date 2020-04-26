@@ -5,7 +5,7 @@ Grupo: DIU2.pserrano.  Curso: 2019/20
 
 Proyecto: HabitShare
 
-Descripción: 
+Descripción: HabitShare es una propuesta para una aplicación móvil relacionada con compartir alojamiento. HabirShare busca mejorar la comunicación de los usuario dentro de la aplicación con un sistema de foros en el cual los usuario pueden realizar comentarios, recomendaciones, valoraciones, etc.
 
 Logotipo:
 
