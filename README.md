@@ -27,27 +27,32 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 En primer lugar, una vez tenemos la idea principal de nuestra aplicación, es interesante estudiar las aplicaciones más destacables cuya funcionalidad sea similar a la nuestra. El análisis de compentencia consiste en analizar la competencia para tratar de sacar los puntos en común de las aplicaciones y, buscar nuevas funcionalidades que puedan hacer destacar a nuestra aplicación.
 
-[Aquí](P1/README.md) podemos encontrar el análisis de competencia completo, en el que se estudian cuatro alternativas y se escoge una de ellas, [Habitoom](http://es.habitoom.com/) en la que profundizaremos en los siguientes puntos.
+[Aquí](P1/README.md) podemos encontrar el análisis de competencia completo, en el que se estudian cuatro alternativas y se escoge una de ellas, [Habitoom](http://es.habitoom.com/), en la que profundizaremos en los apartados.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+En este punto se proponen dos personas ficticias, Manuel y Gloria, que se utilizaran para la realización del Journey Map.
+
+[Aquí](P1/img/PersonaManuel.jpg) podemos encontrar la ficha de Manuel.
+[Aquí](P1/img/PersonaGloria.jpg) podemos encontrar la ficha de Gloria.
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+En este apartado vamos a utilizar nuestras dos personas ficticias para simular una experiencia de cada uno utilizano Habitoom. Gracias a las experiencias que se obtienen podemos analizar algunas de las carencias que tiene el sitio web.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+[Aquí](P1/img/ExperienciaManuel.jpg) podemos encontrar la experiencia de Manuel.
+[Aquí](P1/img/ExperienciaGloria.jpg) podemos encontrar la experiencia de Gloria.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
 
+Usability Review: [Usability-review-DIU2-pserrano](P1/Usability-review-DIU2-pserrano.pdf)
+
+Valoración numérica: 67.
+
+La página es funcional, pero hay aspectos, como no poder volver a la página anterior o su pobre sistema de búsqueda de habitación, que hacen que sea una página mediocre. [Aquí](P1/README.md) se puede encontrar la revisión de usabilidad completa.
 
 ## Paso 2. UX Design  
 
