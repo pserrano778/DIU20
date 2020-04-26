@@ -190,7 +190,7 @@ Por ejemplo, el uso de letra blanca sobre azul claro no es adecuado, ya que difi
 
 >>>Usabilidad y facilidad de comprensión:
 
->>>>•	Uso e un vocabulario adecuado para los usuarios de la aplicación.
+>>>>•	Uso de un vocabulario adecuado para los usuarios de la aplicación.
 
 >>>>•	Uso de etiquetas de texto en elementos visuales e iconos.
 
