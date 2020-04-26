@@ -108,6 +108,8 @@ En este apartado vamos a analizar el UX-Case de [MuseMap](https://blog.prototypr
 ![Método UX](img/landing-page.png)  3.b Logotipo
 ----
 
+![](img/logo.png)
+
 Para crear el logotipo se han utilizado una serie de iconos extraidos de [Font Awesome](http://fontawesome.io/) que han sido editados para generar el logo. La resolución del logotipo es de 100x100. Su estructura es cuadrada, por lo que sería necesario adaptar su estructura y resolución para que se visualice correctamente en redes sociales (por ejemplo, para twitter, sería conveniente que la estructura fuese circular y la resolución 400x400).
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
