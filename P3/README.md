@@ -196,6 +196,7 @@ Por ejemplo, el uso de letra blanca sobre azul claro no es adecuado, ya que difi
 
 ## Historia en Video del UX Case Study
 
+[Enlace al vídeo](https://drive.google.com/file/d/1ieJUtzxt1lH5_sexZlYcrGDYyZHro5zQ/view).
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 
