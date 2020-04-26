@@ -35,7 +35,10 @@ En primer lugar, una vez tenemos la idea principal de nuestra aplicación, es in
 En este punto se proponen dos personas ficticias, Manuel y Gloria, que se utilizaran para la realización del Journey Map.
 
 [Aquí](P1/img/PersonaManuel.jpg) podemos encontrar la ficha de Manuel.
+
 [Aquí](P1/img/PersonaGloria.jpg) podemos encontrar la ficha de Gloria.
+
+[Información completa sobre las personas](P1/README.md)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
@@ -43,7 +46,10 @@ En este punto se proponen dos personas ficticias, Manuel y Gloria, que se utiliz
 En este apartado vamos a utilizar nuestras dos personas ficticias para simular una experiencia de cada uno utilizano Habitoom. Gracias a las experiencias que se obtienen podemos analizar algunas de las carencias que tiene el sitio web.
 
 [Aquí](P1/img/ExperienciaManuel.jpg) podemos encontrar la experiencia de Manuel.
+
 [Aquí](P1/img/ExperienciaGloria.jpg) podemos encontrar la experiencia de Gloria.
+
+[Información completa sobre las experiencias](P1/README.md)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -52,7 +58,9 @@ Usability Review: [Usability-review-DIU2-pserrano](P1/Usability-review-DIU2-pser
 
 Valoración numérica: 67.
 
-La página es funcional, pero hay aspectos, como no poder volver a la página anterior o su pobre sistema de búsqueda de habitación, que hacen que sea una página mediocre. [Aquí](P1/README.md) se puede encontrar la revisión de usabilidad completa.
+La página es funcional, pero hay aspectos, como no poder volver a la página anterior o su pobre sistema de búsqueda de habitación, que hacen que sea una página mediocre.
+
+[Aquí](P1/README.md) se puede encontrar la revisión de usabilidad completa.
 
 ## Paso 2. UX Design  
 
@@ -60,43 +68,32 @@ La página es funcional, pero hay aspectos, como no poder volver a la página an
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
 ----
 
+Se realiza un Feedback Capture Grid sobre Habitoom. Des esta forma podemos ver los puntos positivos y negativos del sitio web, y podemos plantear nuevas ideas y mejoras.
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-  
-  
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+[Aquí](P2/README.md) se puede encontrar el Feedback Capture Grid completo.
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+En este apartado se va a realizar una matriz de tareas. Esta matriz va a relacionar las funcionalidades del sistema con los distintos grupos de usuario en función de la frecuencia de uso.
 
+Tras la matriz de tareas realizamos un mapa del sitio, con el que establecemos la estructura de la aplicación que se propone.
+
+[Aquí](P2/README.md) se puede encontrar el Task & Sitemap completo.
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
 
+En esta sección se describen los distintos elementos del mapa del sitio. Cada fila se compone de una etiqueta y su definición.
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
-
+[Labelling completo](P2/README.md).
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Realización de bocetos Lo-Fi que muestran el diseño de la página principal y la nueva funcionalidad que implementa la aplicación con respecto a Habitoom.
 
+[Aquí](P2/README.md) se pueden encontrar los bocetos junto con su descripción.
 
 ## Paso 3. Mi equipo UX-Case Study 
 
