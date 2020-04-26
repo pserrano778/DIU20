@@ -198,3 +198,9 @@ Por ejemplo, el uso de letra blanca sobre azul claro no es adecuado, ya que difi
 
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
+
+>>>Uno de los aspectos más interesantes de esta práctica es el estudio del caso de MuseMap, en el cuál, al analizarlo, podemos ver las diferentes tomas de decisiones que han tomado y realizar una comparativa con los que nosotros hemos seguido durante las prácticas. Las diferencias van desde los métodos a aplicar hasta el orden en el que se aplican, lo que indica la importancia de tener una idea clara de lo que se quiere hacer para aplicar los métodos idóneos en el momento del desarrollo adecuado.
+
+>>>Otro aspecto a destacar, es el estudio de la guía de principios de diseño de las aplicaciones para dispositivos móviles de Google, con la cual podemos ver la importancia de muchos aspectos de diseño en las aplicaciones de móviles.
+
+>>>Uno de los mayores problemas surgidos durante la práctica ha sido la realización del vídeo, debido a que resulta complicado contar el UX Case Study en tan poco tiempo.
