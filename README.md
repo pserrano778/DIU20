@@ -138,21 +138,26 @@ En este apartado se realiza una evaluación de tres UX Case Study:
 
 >> EventWORLD del equipo DIU3.BNET. [Enlace al repositorio de DIU3.BNET](https://github.com/alejandrobonet/DIU20).
 
-[Aquí](./P4) se puede ver la evaluación completa, son su puntuación, valoriación y las hojas de evaluación de cada equipo.
+[Aquí](./P4) se puede ver la evaluación completa (puntuación, valoración y hojas de evaluación de cada equipo).
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
+Para esto, se ha seleccionado a una de nuestras personas ficticias, Gloria ([ficha de Gloria](./P1/img/PersonaGloria.jpg)), para describir una experiencia con cada una de las aplicaciones evaluadas.
 
+[Aquí](./P4) se pueden ver las experiencias y los distintos problemas que se han obtenido gracias a ellas.
 
 ![Método UX](img/Survey.png). 4.c Ranking 
 ----
 
->>> Concluya con un ranking de los casos evaluados 
+Tras realizar la evaluación de cada uno de los UX Case Study se ha obtenido el siguiente ranking:
+##### 1º: HabiCompa (DIU2.Mango) - 81 puntos
+##### 2º: Share to fly (DIU1.1SHOT) - 60 puntos
+##### 3º: EventWORLD (DIU3.BNET) - 54 puntos
 
->>> Valoración personal 
+El análisis de los UX Case Study de otros equipos ha sido bastante interesante para ver las diferentes tomas de decisiones, y la importancia de estas, que los equipos han ido tomando hasta el producto final.
 
+[Aquí](./P4) se pueden ver las conclusiones obtenidas completas.
 
 ## Paso 5. Evaluación de Accesibilidad  
 
