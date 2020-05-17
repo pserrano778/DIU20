@@ -111,7 +111,7 @@ Finalmente, Gloria encuentra una actividad a la que acudirá.
 
 ## Conclusiones
 
-El análisis de los UX Case Study de otros equipos ha sido bastante interesante para ver las diferentes tomas de decisiones que los equipos han ido tomando hasta el producto final
+El análisis de los UX Case Study de otros equipos ha sido bastante interesante para ver las diferentes tomas de decisiones que los equipos han ido tomando hasta obtener el producto final.
 
 En general, hay algunos aspectos comunes que podemos encontrar en el proceso de diseño de los distintos productos (aún tratándose de aplicaciones cuya finalidad es diferente):
 
