@@ -25,7 +25,7 @@ Puntos débiles:
 
 >• Mala distribución de la documentación en los distintos README del repositorio principal y de los repositorios de cada práctica.
     
-
+Tras la evalución ([DIU1.1SHOT_review](DIU1.1SHOT_review.xls)) se ha obtenido una puntuación de 60.
 
 ## Caso 2
 
@@ -51,6 +51,8 @@ Puntos débiles:
 
 >• Uno de los Journey Map no muestra ningún problema de diseño claro.
 
+Tras la evalución ([DIU2.Mango_review](DIU2.Mango_review.xls)) se ha obtenido una puntuación de 81.
+
 ## Caso 3
 
 [Enlace al repositorio de DIU3.BNET](https://github.com/alejandrobonet/DIU20)
@@ -75,6 +77,7 @@ Puntos débiles:
 
 >• Mala distribución de la documentación en los distintos README del repositorio principal y de los repositorios de cada práctica.
 
+Tras la evalución ([DIU3.BNET_review](DIU3.BNET_review.xls)) se ha obtenido una puntuación de 54.
 
 ## User Testing
 
