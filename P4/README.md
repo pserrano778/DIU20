@@ -83,11 +83,19 @@ Tras la evalución ([DIU3.BNET_review](DIU3.BNET_review.xls)) se ha obtenido una
 
 Hemos seleccionado a una de nuestras personas fictícias, Gloria ([ficha de Gloria](../P1/img/PersonaGloria.jpg)), para describir una experiencia con cada una de las aplicaciones evaluadas.
 
-#### Experiencia en el Caso 1 (Share to fly):
+#### Experiencia en el Caso 1 (Share to fly)
 
-#### Experiencia en el Caso 2 (HabiCompa):
+Gloria está pensando en realizar un viaje a Estados Unidos. Como prefiere viajar en compañía utiliza la aplicación Share to fly.
 
-#### Experiencia en el Caso 3 (EventWORLD):
+Haciendo uso de la aplicación crea un nuevo viaje para que otros usuarios puedan apuntarse a este. 
+
+En un momento dado se apunta un usuario cuyo perfil no agrada a Gloria, por tanto intenta expulsarlo del grupo. Gloria no es capaz de encontrar la forma de expulsar a un individuo que se ha apuntado al viaje, por tanto pide al usuario que salga por su cuenta, y, este se niega.
+
+Gloria decide salirse del grupo que ella había creado y, ante el poco control que tiene sobre los usuarios que se apuntan a un viaje, decide buscar otros medios para realizar el viaje que desea.
+
+#### Experiencia en el Caso 2 (HabiCompa)
+
+#### Experiencia en el Caso 3 (EventWORLD)
 
 
 ## Conclusiones
