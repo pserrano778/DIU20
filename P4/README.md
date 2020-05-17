@@ -81,7 +81,7 @@ Tras la evalución ([DIU3.BNET_review](DIU3.BNET_review.xls)) se ha obtenido una
 
 ## User Testing
 
-Hemos seleccionado a una de nuestras personas fictícias, Gloria ([ficha de Gloria](../P1/img/PersonaGloria.jpg)), para describir una experiencia con cada una de las aplicaciones evaluadas.
+Hemos seleccionado a una de nuestras personas ficticias, Gloria ([ficha de Gloria](../P1/img/PersonaGloria.jpg)), para describir una experiencia con cada una de las aplicaciones evaluadas.
 
 #### Experiencia en el Caso 1 (Share to fly)
 
