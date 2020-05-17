@@ -114,7 +114,9 @@ Finalmente, Gloria encuentra una actividad a la que acudirá.
 El análisis de los UX Case Study de otros equipos ha sido bastante interesante para ver las diferentes tomas de decisiones que los equipos han ido tomando hasta el producto final
 
 En general, hay algunos aspectos comunes que podemos encontrar en el proceso de diseño de los distintos productos (aún tratandose de aplicaciones cuya finalidad es diferente):
+
 >> • Uso de una persona ficticia de una edad más avanzada y de otra más joven.
+
 >> • Algunas de las nuevas funcionalidades que se incluyen en el producto para mejorarlo tienen como objetivo mejorar la comunicación entre usuarios y el aspecto social de las aplicaciones (sistema de foros, cometarios, valoraciones...).
 
 Podemos ver como, aún siguiendo una misma idea base (por ejemplo una persona ficticia mayor que puede tener dificultad con la tecnología, los diferentes equipos tomas decisiones muy distintas para desarrollar estas ideas (historia de la persona, cómo se dará un servicio a los usuarios, cómo se mostrará la nueva funcionalidad, qué diseño tendrá ...).
