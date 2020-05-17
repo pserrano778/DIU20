@@ -130,11 +130,15 @@ La aplicación a desarrollar está enfocada para Android, por lo que se van a us
 ![Método UX](img/ABtesting.png) 4.a Casos asignados
 ----
 
+En este apartado se realiza una evaluación de tres UX Case Study:
 
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
+>> Share to fly del equipo DIU1.1SHOT. [Enlace al repositorio de DIU1.SHOT](https://github.com/aluruiz/DIU20).
 
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
+>> HabiCompa del equipo DIU2.Mango. [Enlace al repositorio de DIU2.Mango](https://github.com/Dunspa/DIU20).
 
+>> EventWORLD del equipo DIU3.BNET. [Enlace al repositorio de DIU3.BNET](https://github.com/alejandrobonet/DIU20).
+
+[Aquí](./P4) se puede ver la evaluación completa, son su puntuación, valoriación y las hojas de evaluación de cada equipo.
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
