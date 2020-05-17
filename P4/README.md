@@ -81,11 +81,13 @@ Tras la evalución ([DIU3.BNET_review](DIU3.BNET_review.xls)) se ha obtenido una
 
 ## User Testing
 
-	Describe la experiencia 1
+Hemos seleccionado a una de nuestras personas fictícias, Gloria ([ficha de Gloria](../P1/img/PersonaGloria.jpg)), para describir una experiencia con cada una de las aplicaciones evaluadas.
 
-	Describe la experiencia 2
+#### Experiencia en el Caso 1 (Share to fly):
 
-	Describe la experiencia 3
+#### Experiencia en el Caso 2 (HabiCompa):
+
+#### Experiencia en el Caso 3 (EventWORLD):
 
 
 ## Conclusiones
