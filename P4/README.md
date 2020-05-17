@@ -89,13 +89,24 @@ Gloria está pensando en realizar un viaje a Estados Unidos. Como prefiere viaja
 
 Haciendo uso de la aplicación crea un nuevo viaje para que otros usuarios puedan apuntarse a este. 
 
-En un momento dado se apunta un usuario cuyo perfil no agrada a Gloria, por tanto intenta expulsarlo del grupo. Gloria no es capaz de encontrar la forma de expulsar a un individuo que se ha apuntado al viaje, por tanto pide al usuario que salga por su cuenta, y, este se niega.
+En un momento dado se apunta un usuario cuyo perfil no agrada a Gloria e intenta expulsarlo del grupo. Gloria no es capaz de encontrar la forma de expulsar a un usuario que se ha apuntado al viaje, por tanto, pide al usuario que salga por su cuenta, y este se niega.
 
 Gloria decide salirse del grupo que ella había creado y, ante el poco control que tiene sobre los usuarios que se apuntan a un viaje, decide buscar otros medios para realizar el viaje que desea.
 
 #### Experiencia en el Caso 2 (HabiCompa)
 
+Gloria, tras haber utilizado la aplicación HabiCompa durante un tiempo y, haber convivido con algunos usuarios, quiere comentar algunas de sus experiencias con el resto de usuarios de la aplicación. Para esto, utiliza el sistema de foros que incluye HabiCompa.
+
+Tras escribir y enviar un comentario a uno de los foros se da cuenta de que tiene algunos errores en los datos que proporciona sobre su experiencia, por tanto, busca la forma de editarlo o borrarlo. Tras un tiempo buscando alguna de estas opciones no encuentra nada. 
+
+Finalmente se pone en contacto con el servicio de soporte y estos eliminan su comentario.
+
 #### Experiencia en el Caso 3 (EventWORLD)
 
+Gloria va a pasar unos días en casa de su hija Sandra, en Madrid, y quiere realizar alguna actividad por la ciudad que pueda gustarle. Utiliza una aplicación que le recomienda su hija: EventWORLD.
+
+Cuando Gloria se registra y crea su perfil ve algunas recomendaciones que le hace la aplicación en función de este. Gloria comienza a ver las valoraciones y comentarios que tienen las actividades que la aplicación le recomienda. Gloria está invirtiendo bastante tiempo en encontrar una actividad que parezca interesante debido a que no existe ninguna forma de ordenar los eventos en función de su valoración o número de personas que lo han valorado.
+
+Finalmente, Gloria encuentra una actividad a la que acudirá.
 
 ## Conclusiones
