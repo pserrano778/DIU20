@@ -155,7 +155,7 @@ Tras realizar la evaluación de cada uno de los UX Case Study se ha obtenido el 
 ##### 2º: Share to fly (DIU1.1SHOT) - 60 puntos
 ##### 3º: EventWORLD (DIU3.BNET) - 54 puntos
 
-El análisis de los UX Case Study de otros equipos ha sido bastante interesante para ver las diferentes tomas de decisiones, y la importancia de estas, que los equipos han ido tomando hasta el producto final.
+El análisis de los UX Case Study de otros equipos ha sido bastante interesante para ver las diferentes tomas de decisiones, y la importancia de estas, que los equipos han ido tomando hasta obtener el producto final.
 
 [Aquí](./P4) se pueden ver las conclusiones obtenidas completas.
 
